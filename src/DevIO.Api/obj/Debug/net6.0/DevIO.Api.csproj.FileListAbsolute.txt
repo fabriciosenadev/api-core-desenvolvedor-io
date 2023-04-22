@@ -1,0 +1,203 @@
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\appsettings.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.exe
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.deps.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.runtimeconfig.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.AssemblyReference.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfoInputs.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfo.cs
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CoreCompileInputs.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DevIO.Api.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DevIO.Api.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DevIO.Api.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\scopedcss\bundle\DevIO.Api.styles.css
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CopyComplete
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\refint\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.genruntimeconfig.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\ref\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\appsettings.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.exe
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.deps.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.runtimeconfig.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.AssemblyReference.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfoInputs.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfo.cs
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CoreCompileInputs.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DevIO.Api.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DevIO.Api.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DevIO.Api.props
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\scopedcss\bundle\DevIO.Api.styles.css
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CopyComplete
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\refint\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.genruntimeconfig.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\obj\Debug\net6.0\ref\DevIO.Api.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Humanizer.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.staticwebassets.runtime.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.AspNetCore.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.Client.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.Extensions.Logging.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.SqlServer.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Fractions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\IdentityModel.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\IdentityModel.OidcClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\KubernetesClient.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\YamlDotNet.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.SqlServer.Storage.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.AspNetCore.HealthChecks.dll

@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.browserslistrc",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.editorconfig",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\.editorconfig"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.gitignore",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\.gitignore"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\README.md",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\README.md"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\angular.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\angular.json"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\karma.conf.js",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package-lock.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\package-lock.json"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\package.json"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app-routing.module.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.css",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.css"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.html"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.spec.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.spec.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.module.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\baseService.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\user.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\userService.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\.gitkeep",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\.gitkeep"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\4ca0ee90-0502-4b81-a921-f4f6a6c8de60_facc7d13-5dcb-42f6-b0d2-02f22513eca8_livro.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\4ca0ee90-0502-4b81-a921-f4f6a6c8de60_facc7d13-5dcb-42f6-b0d2-02f22513eca8_livro.jpg"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\facc7d13-5dcb-42f6-b0d2-02f22513eca8_livro.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\facc7d13-5dcb-42f6-b0d2-02f22513eca8_livro.jpg"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\environments\\environment.prod.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\environments\\environment.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\favicon.ico",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\favicon.ico"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\index.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\index.html"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\main.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\main.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\polyfills.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\polyfills.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\styles.css",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\styles.css"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\test.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\test.ts"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.app.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\tsconfig.app.json"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.spec.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\tsconfig.spec.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DevIO.Api.props",
+      "PackagePath": "build\\DevIO.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DevIO.Api.props",
+      "PackagePath": "buildMultiTargeting\\DevIO.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DevIO.Api.props",
+      "PackagePath": "buildTransitive\\DevIO.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

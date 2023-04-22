@@ -1,0 +1,15 @@
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\_projetos\_aspnet-projects\estudos\_desenvolvedor.io\03 - REST com ASP.NET Core WebAPI\2_MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll

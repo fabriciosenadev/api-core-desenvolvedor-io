@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpP7aKTQiJxckzQCvaeZxWQg9Xkd6hZFipvVsK2C087caFFaA5hFbA28Y0PiRAFYSR5V9CnB2iUeaMgH101cZw==",
+  "success": true,
+  "projectFilePath": "C:\\_projetos\\_aspnet-projects\\estudos\\_desenvolvedor.io\\03 - REST com ASP.NET Core WebAPI\\2_MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
